@@ -24,7 +24,6 @@ masukan angka : 12
 >>> a %=4
 >>> print(a)
 3.0
->>> #**=
->>> a **=
-SyntaxError: invalid syntax
->>> 
+
+
+
